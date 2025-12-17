@@ -31,12 +31,6 @@ const Contact = () => {
           <div>
              <h3 className="text-2xl font-bold text-gray-900 dark:text-white">Email Me</h3>
              <div className="flex flex-col gap-2 mt-4">
-                <a 
-                  href="mailto:jennazchen@gmail.com"
-                  className="w-full py-3 rounded-xl bg-gray-900 dark:bg-white text-white dark:text-black font-bold flex items-center justify-center gap-2 transition-all active:scale-95 hover:opacity-90"
-                >
-                  Send Email
-                </a>
                 <button 
                   onClick=${handleCopyEmail}
                   className="w-full py-3 rounded-xl bg-white dark:bg-neutral-800 border border-gray-200 dark:border-neutral-700 hover:bg-gray-100 dark:hover:bg-neutral-700 text-gray-900 dark:text-white font-medium flex items-center justify-center gap-2 transition-all active:scale-95"
