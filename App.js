@@ -278,7 +278,7 @@ function App() {
                  </div>
                  <h3 className="text-xl font-bold mb-1">Have an opportunity in mind?</h3>
                  <div className="flex flex-col gap-4 w-full mt-4">
-                    <!-- TODO: Replace with real resume link -->
+                    <!-- TODO: Replace with real resume link. -->
                     <a 
                       href="https://github.com/jennazch/jenna" 
                       target="_blank"
