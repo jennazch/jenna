@@ -146,7 +146,7 @@ function App() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  const marqueeContent = "Product — Software — UI/UX — Strategy —\u00A0";
+  const marqueeContent = "Product — Analytics — Software — Strategy —\u00A0";
   const profilePhotoUrl = "https://lh3.googleusercontent.com/d/1xcJedrW0ssjvlCSMUNSePdeks7-46jFj";
 
   const renderContent = () => {
