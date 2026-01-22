@@ -32,8 +32,7 @@ const Sidebar = ({ isDarkMode, toggleTheme, setView, currentView }) => {
 
   const handleNavClick = (e, id) => {
     if (id === 'resume') {
-      // TODO: Replace with real resume link.
-      window.open('https://github.com/jennazch/jenna', '_blank');
+      window.open('https://drive.google.com/file/d/1ZZZUkVRjG8CdWT716jxBzavQGDQUqJJw/view?usp=sharing', '_blank');
       return;
     }
 

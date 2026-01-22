@@ -278,9 +278,8 @@ function App() {
                  </div>
                  <h3 className="text-xl font-bold mb-1">Have an opportunity in mind?</h3>
                  <div className="flex flex-col gap-4 w-full mt-4">
-                    <!-- TODO: Replace with real resume link. -->
                     <a 
-                      href="https://github.com/jennazch/jenna" 
+                      href="https://drive.google.com/file/d/1ZZZUkVRjG8CdWT716jxBzavQGDQUqJJw/view?usp=sharing" 
                       target="_blank"
                       className="bg-gray-100 dark:bg-neutral-800 text-gray-900 dark:text-white px-4 py-2 rounded-xl text-sm font-bold flex items-center justify-between gap-2 hover:bg-gray-200 dark:hover:bg-neutral-700 transition-colors w-full sm:w-max group"
                     >
